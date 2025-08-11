@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+imageio
+pyautogui
+pyqt6
+plyer
