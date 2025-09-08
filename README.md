@@ -12,10 +12,6 @@ This project uses [MediaPipe](https://mediapipe.dev/) for facial landmark detect
 - Desktop notifications on photo capture  
 - Easy-to-use graphical user interface with live webcam feed and status display  
 
-## Demo
-
-![EyeSnap Screenshot](demo_screenshot.png)  
-*(Add a screenshot of your GUI here if you want)*
 
 ## Installation
 
